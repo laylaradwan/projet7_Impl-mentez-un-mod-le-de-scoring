@@ -1,0 +1,16 @@
+mlflow==2.9.2
+cffi==1.16.0
+cloudpickle==2.2.1
+cupy-cuda11x==11.0.0
+defusedxml==0.7.1
+distributed==2023.8.1
+graphviz==0.20.1
+ipython==7.34.0
+lightgbm==4.1.0
+matplotlib==3.7.1
+pandas==1.5.3
+pathlib==1.0.1
+pyarrow==10.0.1
+scikit-learn==1.2.2
+typing-extensions==4.5.0
+xxhash==3.4.1
